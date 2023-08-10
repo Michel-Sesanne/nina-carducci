@@ -252,6 +252,14 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+  
+footer div {
+	text-align: center;
+}  
+
+footer div img {
+	display: none;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
